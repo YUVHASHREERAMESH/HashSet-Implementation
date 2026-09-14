@@ -37,9 +37,6 @@ flowchart TB
 	C -->|uses| D[Hash Table with Array]
 	C -->|maintains| E[TABLE_SIZE = 1009]
 	D -->|chains| F[Linked List Nodes]
-	style D fill:#f9f,stroke:#333,stroke-width:1px
-	style E fill:#ff9,stroke:#333,stroke-width:1px
-	style F fill:#9f9,stroke:#333,stroke-width:1px
 ```
 
 ## Run
